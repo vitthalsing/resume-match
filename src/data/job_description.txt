@@ -1,0 +1,28 @@
+We are looking for a highly skilled and experienced Senior Machine Learning Engineer to join development of cutting-edge Natural Language Processing (NLP) solutions. The ideal candidate will have a strong background in machine learning, deep learning, and NLP- along with a proven track record of applying these skills to solve real-world problems. 
+The day-to-day 
+
+Craft and refine advanced NLP systems utilizing state-of-the-art Python libraries such as NLTK, SpaCy, Hugging Face's Transformers, TextBlob, Gensim,Langchain, and scikit-learn.
+Analyze, preprocess, and interpret large datasets, applying techniques like sentiment analysis, topic modeling, and syntactic parsing.
+Develop and maintain machine learning models with TensorFlow or PyTorch, leveraging Python's robust support for these frameworks.
+Innovate and implement new features for Document AI that leverage Azure Form Recognizer's custom models and prebuilt options for specific domains.
+Who you are: 
+
+Bachelor’s or Master’s in Computer Science, Computational Linguistics, Artificial Intelligence, or related field.
+Minimum of 4 years of experience in designing and implementing NLP solutions in a production environment.
+Experience in Python NLP libraries (NLTK, SpaCy, Hugging Face Transformers, Snorkal, Gensim) and frameworks (TensorFlow, PyTorch).
+Demonstrated skill in developing high-performance algorithms for NLP tasks, such as text classification, language modelling LLMs, or named entity recognition, using Python.
+Knowledge of state-of-the-art NLP models like BERT, GPT, T5 etc.
+Strong analytical and problem-solving skills.
+Experience in deploying Python-based NLP solutions in cloud environments (AWS ,GCP, Azure).
+Familiarity with Python web frameworks (e.g., Flask, Django) for deploying NLP applications as RESTful APIs.
+Background in deploying NLP models in a microservices architecture.
+Familiarity with containerization and orchestration technologies (e.g., Docker, Kubernetes).
+Experience with CI/CD pipelines and test-driven development
+Who we are: 
+
+TechnoMile provides transformative, AI-enabled cloud solutions that empower GovCon, aerospace and defense, and other types of companies doing business with the government to modernize their operations. Our SaaS products enable clients to optimize their business development and sales processes, streamline and de-risk contract management, and unlock the value of public and private data to gain an information advantage. Over 200 companies rely on TechnoMile, including more than half of both the top 10 federal defense contractors and the top 10 IT government contractors. 
+
+We are hungry, humble, and smart. At TechnoMile, we’re lifelong learners and foster an environment of growth, from onboarding, through continuous education, as well as with tuition reimbursement programs to help you advance your career.
+We love a challenge and driving innovation. We think creatively, devise new approaches to solve problems, and seek to deliver solutions and insights that others cannot.
+We are flexible. At TechnoMile, we offer remote, hybrid, and in-office options for employees to do their best work.
+We are one global team. From Tysons Corner, to Texas, to Nagpur India, you’ll find TechnoMile employees across the globe, united in our collective mission of delivering transformative solutions that elevate the performance of companies doing business with the government.
