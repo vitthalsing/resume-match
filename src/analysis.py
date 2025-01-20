@@ -3,7 +3,7 @@ import logging
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
-from models import Resume, JobDescription, MatchedSkills, EducationScore, CertificationScore
+from resume_agent.models import Resume, JobDescription, MatchedSkills, EducationScore, CertificationScore
 
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 

@@ -1,4 +1,4 @@
-from input_handler import load_job_description, load_resumes
+from resume_agent.input_handler import load_job_description, load_resumes
 from analysis import map_skills_to_resume
 
 def print_resume_report(resume_name, skill_mapping):
