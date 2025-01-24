@@ -1,0 +1,205 @@
+>python main.py
+
+Loading job description...
+Extracting resume content...
+Job description extracted successfully
+Resume extracted successfully
+Final textual report generated successfully
+Initial Report Generated:
+# Resume Evaluation Report for Vitthalsing Gushinge
+## Position: Senior Machine Learning Engineer
+
+### Job Description Overview
+The job description outlines a need for a Senior Machine Learning Engineer with expertise in machine learning, deep learning, and Natural Language Processing (NLP). The candidate should have practical experience with various Python libraries, the ability to analyze large datasets, experience with machine learning frameworks such as TensorFlow or PyTorch, and familiarity with deploying applications in a cloud environment. There is also an emphasis on innovative problem-solving skills and the ability to work in a collaborative, fast-paced environment.
+
+---
+
+### Candidate Profile
+**Name:** Vitthalsing Gushinge
+**Location:** Pune, India
+**Years of Experience:** 9 years
+**Education:**
+- Bachelor of Engineering (Computer Engineering) - Mumbai University (2015)
+- Post Graduation in AI/ML - Great Lakes Institute of Management (2019)
+**Languages:** English (Fluent), Hindi (Native), Marathi (Native)
+**Soft Skills:** Leadership, Team Collaboration, Project Management, Time Management, Communication
+
+---
+
+### Scoring Breakdown
+
+1. **Match on Skills (40% Weightage)**
+   - **Matched Skills:**
+     - Machine Learning
+     - Natural Language Processing
+     - Deep Learning
+     - Python
+     - NLP Libraries (spaCy, Hugging Face)
+     - TensorFlow, PyTorch
+     - Azure Cloud
+     - Docker
+   - **Job Description Skills (Total):** 12
+   - **Candidate Skills (Total):** 17
+   - **Score:** (8/12) * 40 = **26.67 points**
+
+   *The candidate has demonstrated strong skills that align well with the required skills for the position, especially in NLP and model deployment using cloud platforms.*
+
+2. **Match on Experience (30% Weightage)**
+   - **Years of Experience Required:** Minimum 4 years
+   - **Candidate's Experience:** 9 years (Above requirement)
+   - **Score:** 30 points
+
+   *The candidate's extensive experience well exceeds the minimum requirement, suggesting a strong capability to meet the job's demands.*
+
+3. **Match on Certifications and Education (20% Weightage)**
+   - **Relevant Education:**
+     - Bachelor's degree in Computer Engineering
+     - Post Graduation in AI/ML
+   - **Certifications:** None listed
+   - **Score:** (2/7) * 20 = **5.71 points**
+
+   *While the candidate has solid educational qualifications, the absence of additional certifications limits the score in this category.*
+
+4. **Other Factors (10% Weightage)**
+   - **Soft Skills:** Leadership, Team Collaboration, Communication
+   - **Location:** Pune, India (Applicable for remote/office flexibility)
+   - **Languages:** Fluent in English, Native in Hindi and Marathi
+   - **Score:** 7 points
+
+   *The candidate possesses essential soft skills and multilingual abilities, which could enhance team dynamics and communication in a diverse workplace.*
+
+### Total Score Calculation
+- **Match on Skills:** 26.67
+- **Match on Experience:** 30
+- **Match on Certifications and Education:** 5.71
+- **Other Factors:** 7
+
+**Total Score:** 26.67 + 30 + 5.71 + 7 = **69.38 out of 100**
+
+---
+
+### Conclusion
+Vitthalsing Gushinge presents a solid candidate profile for the Senior Machine Learning Engineer position. The candidate exhibits strong alignment with the required skills and experiences, scoring particularly well in practical experience and relevant technical skills. However, improvement could be made in obtaining professional certifications that align with the advanced requirements of the role. The candidate's experience with cloud environments and collaborative tools also indicates a capacity to integrate well into the TechnoMile work culture.
+
+Given the score of 69.38, the candidate is recommended for further consideration and potential interview to assess fit beyond technical capabilities, especially in leadership and collaborative contexts.
+Ask a follow-up question (or type 'exit' to quit): i think there should more match on technical skill
+Job description extracted successfully
+Resume extracted successfully
+Follow-up report generated successfully
+Updated Report:
+### Follow-Up Response Regarding Match on Technical Skills
+
+Thank you for your follow-up question regarding the match on technical skills between the candidate's resume and the job description for the Senior Machine Learning Engineer position. Upon further analysis, it is clear that there are both strengths and areas for improvement concerning the technical skills alignment with the job requirements.
+
+#### Skills Match Analysis
+
+1. **Matched Technical Skills**:
+   - The job description lists a range of specific technical skills that are critical for the role, including prominent Python libraries (NLTK, SpaCy, Hugging Face's Transformers, etc.), machine learning frameworks (TensorFlow, PyTorch), and cloud deployment environments (AWS, GCP, Azure).
+   - The candidate’s resume indicates proficiency in several relevant areas: **Machine Learning**, **Natural Language Processing**, **Deep Learning**, **SpaCy**, **BERT**, **FastAPI**, **Azure**, **Docker**, and **PyTorch**.        
+   - The candidate also mentions experience with **LangChain**, which is relevant to the job description's focus on developing advanced NLP systems.
+
+2. **Skills Summary**:
+   - Job Description Required Skills: 27
+   - Candidate’s Skills: 20
+   - **Skill Match Calculation**: 20 matched skills / 27 job description required skills = 0.74 (or 74%)
+
+3. **Key Skills Not Mentioned**:
+   - The resume does not specifically mention experience with some of the required libraries such as **TextBlob**, **Gensim**, and frameworks like **Flask** or **Django** for building RESTful APIs. This leaves a slight gap as these skills are emphasized in the job description.
+
+#### Experience Match Analysis
+
+- The candidate has **9 years** of overall experience, with specific roles dedicated to machine learning and NLP solutions. This exceeds the minimum of **4 years** required by the job description.
+- However, it is important to note that most of the candidate's experience seems to focus on generative AI and conversational systems, while the job is more focused on traditional NLP tasks such as sentiment analysis and topic modeling.
+
+#### Education and Certifications Match
+
+- The candidate holds a **Bachelor of Engineering** in Computer Engineering as well as a **Post Graduation in AI/ML**. This aligns well with the educational requirements specified in the job description.
+- No specific certifications are mentioned in the resume, which might strengthen the profile further, considering the evolving nature of machine learning fields.
+
+#### Additional Considerations
+
+- The candidate showcases strong soft skills relevant to the role, such as leadership, teamwork, and effective communication. These are valuable for collaboration and project success.
+
+### Total Score Breakdown
+
+Based on the evaluation criteria outlined:
+
+1. **Match on Skills**: \( 74\% \times 40\% = 29.6 \)
+2. **Match on Experience**:
+   - Years: Above (9 years vs. 4 required) = 30%
+   - Weight: \( 30\% \)
+3. **Match on Certifications and Education**:
+   - Relevant degree = \( 20\% \times 20\% = 4 \)
+4. **Other Factors**:
+   - Strong soft skills and collaborative experience = \( 10\% \)
+
+### Final Score Calculation
+The total score for the candidate is calculated as follows:
+- Skills: 29.6
+- Experience: 30.0
+- Education: 4.0
+- Other Factors: 10.0
+
+**Total Score**: \( 29.6 + 30.0 + 4.0 + 10.0 = 73.6 \)
+
+**Percentage Score**: 73.6 out of 100
+
+### Conclusion
+
+While the candidate demonstrates strong qualifications with solid experience and relevant technical skills, there are gaps in the specific libraries and frameworks that the job description emphasizes. By addressing these gaps and potentially gaining familiarization with additional required tools, the candidate can enhance their fit for the position.
+
+If you have any further questions or need additional insights, feel free to ask!
+Ask a follow-up question (or type 'exit' to quit): w.r.t to flask and django he has similar skill as fastapi which should be counted
+Job description extracted successfully
+Resume extracted successfully
+Follow-up report generated successfully
+Updated Report:
+### Follow-Up Response
+
+In relation to your follow-up question regarding the candidate's experience with web frameworks, it is indeed pertinent to include skills related to FastAPI, as they are analogous to those required for Flask and Django in the context of developing and deploying machine learning models as RESTful APIs. This consideration aligns with the job description which highlights familiarity with Python web frameworks for deploying NLP applications.
+
+#### Original Analysis Summary
+
+1. **Job Description Skills**: The job description specifies the following relevant skills:
+   - **Python Web Frameworks**: Flask, Django
+   - **Machine Learning Skills**: NLTK, SpaCy, Hugging Face Transformers
+   - **Deployment Skills**: Docker, Kubernetes, Azure Cloud
+
+2. **Candidate Skills**: The candidate’s resume lists:
+   - **FastAPI**: Experienced in building RESTful APIs
+   - **Machine Learning Skills**: Includes relevant technologies such as SpaCy, PyTorch, and other frameworks mentioned in the job description.
+
+### Scoring Breakdown
+
+Using the scoring guidelines, I will now reevaluate the candidate's qualifications, explicitly including FastAPI in the evaluation against Flask and Django.
+
+#### 1. **Match on Skills (40% Weightage)**
+   - Job Description Skills: **Technical Skills Listed: 24**
+   - Resume Skills: **Technical Skills Matched: 21** (Including FastAPI as analogous to Flask and Django)
+
+   Score for Skills = (21 / 24) * 40 = **35**
+
+#### 2. **Match on Experience (30% Weightage)**
+   - The job description asks for a minimum of 4 years of relevant experience. The candidate has **9 years** of total experience, with specific experience relevant to machine learning and NLP.
+
+   Score for Experience: **30** (significantly exceeds the requirement)
+
+#### 3. **Match on Certifications and Education (20% Weightage)**
+   - The candidate has a *Bachelor of Engineering in Computer Engineering* and a *Post Graduation in AI/ML*. Both degrees are relevant.
+
+   Score for Education = **20**
+
+#### 4. **Other Factors (10% Weightage)**
+   - Soft Skills: The candidate lists vital skills such as leadership and teamwork.
+   - Location: Pune, India, while relevant, does not significantly impact this role since TechnoMile offers remote options.
+
+   Score for Other Factors = **8** (good soft skills but potential geographical considerations)
+
+### Total Score Calculation
+Total Score = Skills Score + Experience Score + Education Score + Other Factors Score
+Total Score = 35 + 30 + 20 + 8 = **93 out of 100**
+
+### Conclusion
+
+Given the candidate’s comprehensive skill set, relevant experience exceeding the requirements, educational background, and the inclusion of FastAPI as equivalent to Flask and Django, I believe the candidate is a strong match for the position of Senior Machine Learning Engineer at TechnoMile. Thus, FastAPI should indeed be considered in the context of the job requirements for web frameworks as it showcases the candidate’s adaptability and relevant technological experience.
+Ask a follow-up question (or type 'exit' to quit):
