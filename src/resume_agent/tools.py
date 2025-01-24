@@ -1,34 +1,23 @@
-"""This module provides example tools for web scraping and search functionality.
+import os
+from langchain_community.document_loaders import PyPDFLoader
 
-It includes a basic Tavily search function (as an example)
+def get_resume_content() -> str:
+    """Get the resume content from the resume file"""
+    file_path = os.path.join(os.path.dirname(__file__), os.getenv("RESUME_FILE_PATH"))
+    if file_path.endswith('.pdf'):
+        try:
+            loader = PyPDFLoader(file_path)
+            pages = loader.load()
+            page_content = ' '.join([page.page_content for page in pages])
+            
+        except Exception as e:
+            print(f"Error loading {os.getenv("RESUME_FILE_PATH")}: {e}")
+    print("Extracting resume content...")
+    return page_content
 
-These tools are intended as free examples to get started. For production use,
-consider implementing more robust and specialized tools tailored to your needs.
-"""
-
-from typing import Any, Callable, List, Optional, cast
-
-from langchain_community.tools.tavily_search import TavilySearchResults
-from langchain_core.runnables import RunnableConfig
-from langchain_core.tools import InjectedToolArg
-from typing_extensions import Annotated
-
-from resume_agent.configuration import Configuration
-
-
-async def search(
-    query: str, *, config: Annotated[RunnableConfig, InjectedToolArg]
-) -> Optional[list[dict[str, Any]]]:
-    """Search for general web results.
-
-    This function performs a search using the Tavily search engine, which is designed
-    to provide comprehensive, accurate, and trusted results. It's particularly useful
-    for answering questions about current events.
-    """
-    configuration = Configuration.from_runnable_config(config)
-    wrapped = TavilySearchResults(max_results=configuration.max_search_results)
-    result = await wrapped.ainvoke({"query": query})
-    return cast(list[dict[str, Any]], result)
-
-
-TOOLS: List[Callable[..., Any]] = [search]
+def get_job_description() -> str:
+    """Get the job description from the job description file"""
+    with open(os.path.join(os.path.dirname(__file__), os.getenv("JOB_DESCRIPTION_FILE_PATH")), 'r') as file:
+        print("Loading job description...")
+        job_description = file.read()
+    return job_description

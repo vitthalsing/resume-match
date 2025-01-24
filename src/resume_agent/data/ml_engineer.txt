@@ -1,0 +1,78 @@
+About the job
+Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Senior Machine Learning Engineer
+
+Overview
+
+We are the global technology company behind the world’s fastest payments processing network. We are a vehicle for commerce, a connection to financial systems for the previously excluded, a technology innovation lab, and the home of Priceless®. We ensure every employee has the opportunity to be a part of something bigger and to change lives. We believe as our company grows, so should you. We believe in connecting everyone to endless, priceless possibilities.
+
+Our Team Within Mastercard – Data & Services
+
+The Data & Services team is a key differentiator for Mastercard, providing the cutting-edge services that are used by some of the world's largest organizations to make multi-million dollar decisions and grow their businesses. Focused on thinking big and scaling fast around the globe, this agile team is responsible for end-to-end solutions for a diverse global customer base. Centered on data-driven technologies and innovation, these services include payments-focused consulting, loyalty and marketing programs, business Test & Learn experimentation, and data-driven information and risk management services.
+
+Targeting Analytics Program
+
+Within the D&S Technology Team, the Targeting Analytics program is a relatively new program that is comprised of a rich set of products that provide accurate perspectives on Credit Risk, Portfolio Optimization, and Ad Insights. Currently, we are enhancing our customer experience with new user interfaces, moving to API-based data publishing to allow for seamless integration in other Mastercard products and externally, utilizing new data sets and algorithms to further analytic capabilities, and generating scalable big data processes.
+
+We are seeking an innovative ML Engineer to share responsibility in designing and building a full stack web application and data pipelines. The goal is to deliver custom analytics efficiently, leveraging machine learning and AI solutions. This individual will thrive in a fast-paced, agile environment and partner closely with other areas of the business to build and enhance solutions that drive value for our customers.
+
+Engineers work in small, flexible teams. Every team member contributes to designing, building, and testing features. The range of work you will encounter varies from building intuitive, responsive UIs to designing backend data models, architecting data flows, and beyond. There are no rigid organizational structures, and each team uses processes that work best for its members and projects.
+
+Here are a few examples of products in our space:
+
+Portfolio Optimizer (PO) is a solution that leverages Mastercard’s data assets and analytics to allow issuers to identify and increase revenue opportunities within their credit and debit portfolios.
+
+Audiences uses anonymized and aggregated transaction insights to offer targeting segments that have high likelihood to make purchases within a category to allow for more effective campaign planning and activation.
+
+Credit Risk products are a new suite of APIs and tooling to provide lenders real-time access to KPIs and insights serving thousands of clients to make smarter risk decisions using Mastercard data.
+
+Help found a new, fast-growing engineering team!
+
+Role Responsibilities
+
+ Work as a member of an agile team to design, build, test, and deploy new products and features
+ Build and deploy AI solutions that should work at scale.
+ Build appropriate data pipelines to support model deployments.
+ Optimize large models for efficiency and scalability.
+ Monitor the AI models and applications that are deployed.
+ Lead and own everything around Machine Learning Operations.
+ Prepare appropriate documentation of the model deployment and processes.
+ Conduct root cause analysis of data, pipeline and other processes.
+ Participate in code reviews, model review, testing and debugging for high quality product.
+ Conduct data analysis for different use-cases.
+ Conduct data extraction, data analysis, data cleaning, preparation, modeling, and evaluation
+ Support building prototypes, and proof-of-concepts.
+ Collaborate with internal teams and other teams across the company
+ Expert understanding of data pipeline building (Snowflake, Azure, Python)
+ Push for better Development Practices, better Code, better Solutions
+ Proactively understand stakeholder needs, goals, expectations and viewpoints to deliver results
+
+
+All About You
+
+ Proven experience in developing and deploying Machine learning and Deep learning solutions.
+ Deep understanding of different Machine learning, Deep learning, and AI algorithms.
+ High proficiency in using Python and R
+ Hands on experience on ML Frameworks (Scikit learn) and Deep Learning Framework (TensorFlow, PyTorch)
+ Solid experience with SQL, Hadoop and/or Snowflake databases
+ Good understanding of Cloud technology.
+ Building and maintaining ML production pipelines.
+ Curious, Critical thinker, good hacking skills and scientific reasoning.
+ Strong familiarity with Software engineering practices.
+ Not afraid to ask questions and propose new ideas
+ Strong technologist eager to learn new technologies and frameworks
+
+
+Corporate Security Responsibility
+
+ All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
